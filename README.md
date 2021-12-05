@@ -22,7 +22,7 @@ ps:这是我记录的Github经常使用的一些操作、或者主要内容
 
 1.git status 命令查看当前项目修改情况
 
-2.使用git add 添加本地修改过或者增加的文件。eg： git add test.txt
+2.使用git add 添加本地修改过或者增加的文件。 eg： git add test.txt
 
 3.git commit -m “更新说明”
 
