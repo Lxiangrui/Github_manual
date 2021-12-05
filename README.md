@@ -26,4 +26,4 @@ ps:这是我记录的Github经常使用的一些操作、或者主要内容
 
 3.git commit -m “更新说明”
 
-4.直接pull，推送到远端仓库
+4.”git push origin master“，推送到远端仓库
