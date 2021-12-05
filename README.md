@@ -12,6 +12,8 @@ ps:这是我记录的Github经常使用的一些操作、或者主要内容
 
 5、在命令行窗口输入命令	”git add .“
 
+(git commit -m "init")
+
 6、去github上面，建立一个新的仓库，复制HTTPS
 
 7、在命令行窗口输入命令	”git remote add origin +复制的HTTPS“，链接本地仓库和远程仓库
