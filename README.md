@@ -18,8 +18,12 @@ ps:这是我记录的Github经常使用的一些操作、或者主要内容
 
 8、在命令行窗口输入命令	”git push -u origin master“,通过push上传到远程仓库
 
-如果是修改项目内容
+## 如果是修改项目内容
+
 1.git status 命令查看当前项目修改情况
+
 2.使用git add 添加本地修改过或者增加的文件。eg： git add test.txt
+
 3.git commit -m “更新说明”
+
 4.直接pull，推送到远端仓库
